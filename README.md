@@ -1,0 +1,1 @@
+First time hacking with our new Raspberry Pi!
