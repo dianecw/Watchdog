@@ -44,7 +44,7 @@ try:
       else:
         print device + "is not in the house."
         GPIO.output(info[1], 0)
-    time.sleep(3)
+    time.sleep(1)
 
 except KeyboardInterrupt:
   turnOffLights()
