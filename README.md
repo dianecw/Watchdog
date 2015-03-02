@@ -1,5 +1,5 @@
 # Watchdog #
-============
+------------
 
 Watchdog is a Raspberry Pi hack to tell you who's at home. It connects to a router, checking the devices connected to it, and turns on the light corresponding to each.
 
